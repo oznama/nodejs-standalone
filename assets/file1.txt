@@ -1,0 +1,2 @@
+My file 1 text data
+for testing read async await
