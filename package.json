@@ -3,7 +3,9 @@
     "version": "1.0.0",
     "type": "module",
     "dependencies": {
+        "dotenv": "^17.3.1",
         "express": "^5.2.1",
+        "helmet": "^8.1.0",
         "upper-case": "^2.0.2"
     },
     "main": "index.js",
