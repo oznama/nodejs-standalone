@@ -1,0 +1,26 @@
+{
+    "name": "my-package",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+        "express": "^5.2.1",
+        "upper-case": "^2.0.2"
+    },
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "Oziel Naranjo",
+    "license": "ISC",
+    "description": "Learning nodejs",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/oznama/nodejs-standalone.git"
+    },
+    "bugs": {
+        "url": "https://github.com/oznama/nodejs-standalone/issues"
+    }
+}
